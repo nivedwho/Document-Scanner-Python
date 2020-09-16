@@ -1,2 +1,5 @@
 # Document-Scanner
-A Document Scanner application made using open cv and python
+
+
+This is a simple document scanner the can use your mobile camera as a webcam for capturing the image and saves the scanned version of the image.
+The application is made using python and Open CV. IP Camera application should be installed on your mobile devices for accesing it's camera remotely.
